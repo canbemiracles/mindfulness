@@ -75,7 +75,7 @@ GK.RingDrawable = function(){
 
     this.init = function() {
         program = GK.ProgramManager.create(vertex, fragment);
-        texture = GK.TextureManager.loadTexture("/wp-content/themes/globe/static/img/texture/ring.png", true, gl.REPEAT, gl.REPEAT);
+        texture = GK.TextureManager.loadTexture("/wp-content/themes/globe/static/img/texture/ring2.png", true, gl.REPEAT, gl.REPEAT);
         return this;
     }
 
