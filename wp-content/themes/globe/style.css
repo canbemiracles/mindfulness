@@ -91,9 +91,10 @@ position: fixed;
     left: 11%;
 }
 #request-demo{
-	display:none;
+	/* display:none; */
+	opacity: 0;
     z-index: 10;
-margin-left: 10px;
+	margin-left: 10px;
     width: 210px;
     padding: 26px 0;
     background: #003821;

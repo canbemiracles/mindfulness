@@ -631,6 +631,7 @@ FOUT Prevention
 .fonts-active #scrolling-content,
 .fonts-active #pagination,
 .fonts-active #request,
+.fonts-active #request-demo,
 .fonts-active .social {
     opacity: 1;
 }

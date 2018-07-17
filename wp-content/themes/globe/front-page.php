@@ -250,7 +250,7 @@
 <script>
 	jQuery(function(){	
 		setTimeout(function(){
-jQuery('#request-demo').show(100);
+// jQuery('#request-demo').show(100);
 jQuery('.custom-logo-link').show(100);
 jQuery('#social-button').show(100);
 }, 2500);
