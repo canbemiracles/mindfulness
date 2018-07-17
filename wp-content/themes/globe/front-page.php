@@ -119,14 +119,6 @@
                             <label for="EMAIL">Email</label>
                             <input id="email" type="email" value="" required name="EMAIL">
                         </div>
-                        <div class="input-block" id="block-three">
-                            <label for="phone">Phone number</label>
-                            <input id="phone" type="tel" value="" required name="EMAIL">
-                        </div>
-						<div class="input-block" id="block-three">
-                            <label for="phone">Location</label>
-                            <input id="location" type="text" value="" required name="EMAIL">
-                        </div>
                        <div class="textarea-block" id="block-four">
                             <label for="NEEDS">Tell us more about your needs...</label>
                             <textarea id="NEEDS" name="NEEDS"></textarea>
